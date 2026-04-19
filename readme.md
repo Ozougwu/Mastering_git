@@ -1,4 +1,6 @@
-## Heyooo everyone, welcome to be by guide!
+## Welcome to Git!
+
+
 ~ Yo Johnny here!
 This is coming from Adrian
 git status
